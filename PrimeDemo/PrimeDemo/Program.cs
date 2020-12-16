@@ -56,7 +56,7 @@ namespace PrimeDemo
                 
             }
             Console.ReadLine();
-            Console.WriteLine("Edited by Saif")
+            Console.WriteLine("Edited by Saif");
         }
     }
 }
