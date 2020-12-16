@@ -1,0 +1,7 @@
+C:\Users\Sai Ram Reddy\Documents\Assignment Git\Day2QuestionLocal\PrimeDemo\PrimeDemo\bin\Debug\PrimeDemo.exe.config
+C:\Users\Sai Ram Reddy\Documents\Assignment Git\Day2QuestionLocal\PrimeDemo\PrimeDemo\bin\Debug\PrimeDemo.exe
+C:\Users\Sai Ram Reddy\Documents\Assignment Git\Day2QuestionLocal\PrimeDemo\PrimeDemo\bin\Debug\PrimeDemo.pdb
+C:\Users\Sai Ram Reddy\Documents\Assignment Git\Day2QuestionLocal\PrimeDemo\PrimeDemo\obj\Debug\PrimeDemo.csprojAssemblyReference.cache
+C:\Users\Sai Ram Reddy\Documents\Assignment Git\Day2QuestionLocal\PrimeDemo\PrimeDemo\obj\Debug\PrimeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sai Ram Reddy\Documents\Assignment Git\Day2QuestionLocal\PrimeDemo\PrimeDemo\obj\Debug\PrimeDemo.exe
+C:\Users\Sai Ram Reddy\Documents\Assignment Git\Day2QuestionLocal\PrimeDemo\PrimeDemo\obj\Debug\PrimeDemo.pdb
